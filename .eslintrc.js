@@ -17,5 +17,7 @@ module.exports = {
     'linebreak-style': 0,
     'import/extensions': 0,
     'no-underscore-dangle': 0,
+    'no-useless-constructor': 0,
+    'class-methods-use-this': 0,
   },
 };
